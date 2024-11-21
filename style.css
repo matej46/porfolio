@@ -507,6 +507,9 @@ span{
     font-size: 2rem;
 }
 
+.feedback-link h2 {
+    color: white;
+}
 .contact{
     background-color: var(--bg-color);
 }
